@@ -1,4 +1,4 @@
-# Project Title
+# Poker Game
 
 A single player 5 cards poker game.
 
