@@ -29,15 +29,8 @@ I have added base cases for the game, if the player reaches 0 points, they canno
 
 The application will terminate if the player types "exit" in the console.
 
-NOTE: I have used random.shuffle() for shuflling the cards, so it gets difficult to get the exact match of cards each time. 
-      To make sure that my application is working and I have all the conditions matching I have created a test() function which will check all of my conditions.
-      I have not called that function while submitting. I will demonstarted it live to the TA during my presentation. 
-
-Extra: It was told in the lectures that the professor is not expecting to create a poker game and rather a simple game of our own. 
-       I took the challenge and created a poker game itself.
-
 ## Getting Started
 To run the application just type in the terminal ```python main.py```
 
 ## Author
-Preet Dabhi (10459151)
+Preet Dabhi
